@@ -14,7 +14,7 @@ cd site/themes/
 ```
 git clone https://github.com/budparr/gohugo-theme-ananke.git
 ```
-設定ファイルをコピして上書きする
+設定ファイルをコピーして上書きする
 ```
 cp gohugo-theme-ananke/exampleSite/config.toml ../.
 ```
